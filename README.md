@@ -9,6 +9,6 @@ Enter SwasthkAI – your ultimate solution to decode food labels and make inform
 
 Gone are the days of blindly trusting brands. With SwasthkAI, you're in control of your health journey. So, next time you reach for a snack, make it an informed choice with SwasthkAI by your side.
 
-## Problem it Solves
+## Problem it Solves ✨
 
 SwasthkAI revolutionizes the way we approach food consumption by empowering users to scan food packaging, extract detailed ingredient data, and assess health impacts based on individual health preferences. Say goodbye to marketing gimmicks and hello to informed choices tailored for diabetics, patients, and anyone seeking healthier eating habits. Whether you're deciphering labels or avoiding allergens, SwasthkAI is your trusted companion for a healthier lifestyle.
