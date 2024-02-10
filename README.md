@@ -1,2 +1,2 @@
 # SwasthKAI
-Empower Your Health: Scan, Know, Thrive!
+Decode, Decide, Thrive: Empowering Health with SwasthkAI!
