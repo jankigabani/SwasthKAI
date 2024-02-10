@@ -3,7 +3,7 @@ Decode, Decide, Thrive: Empowering Health with SwasthKAI.
 
 # Who are we?
 
-Have you ever stopped to wonder what's really in your food? Picture this: you grab a protein bar or snack from your morning swag bag, but do you truly know what's fueling your body? The truth is, that most of us blindly trust food labels without realizing the hidden ingredients and marketing gimmicks lurking within. We've all heard the age-old adage, 'biscuits are better than chips or chocolates,' but did you know that biscuits can pack more sugar than your favorite chocolate bar?
+Have you ever wonder what's really in your food? Picture this: you grab a protein bar or snack from your morning swag bag, but do you truly know what's fueling your body? The truth is, that most of us blindly trust food labels without realizing the hidden ingredients and marketing gimmicks lurking within. We've all heard the age-old adage, 'biscuits are better than chips or chocolates,' but did you know that biscuits can pack more sugar than your favorite chocolate bar?
 
 Enter SwasthkAI – your ultimate solution to decode food labels and make informed choices. With SwasthkAI, you'll never fall prey to misleading marketing tactics again. Our app empowers you to scan food packaging, uncover detailed ingredient data, and assess the health impacts based on your individual preferences – whether you're managing diabetes, allergies, or other health conditions.
 
