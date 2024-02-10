@@ -1,2 +1,2 @@
 # SwasthKAI
-Decode, Decide, Thrive: Empowering Health with SwasthkAI!
+Decode, Decide, Thrive: Empowering Health with SwasthKAI.
