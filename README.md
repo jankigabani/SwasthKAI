@@ -23,16 +23,6 @@ Install the below libraries :
 
 # Usage
 After cloning the repository, navigate to the directory containing the app.py file. Then, run the Streamlit app using the following command:
+ ```streamlit run app.py```
 This will start the application, and you can access it through your web browser.
-
-# Contributing
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
-
-# License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-# Contact
-For any inquiries or support, please contact Janaki Gabani.
-
-# Note
-If you are unable to run this kindly contact as we are still working on this.
+(NOTE : If you are not able to access this, kindly contact. It mightnot work as we are still working and scalling this project.)
