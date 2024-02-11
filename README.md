@@ -16,7 +16,10 @@ SwasthkAI revolutionizes the way we approach food consumption by empowering user
 
 # Installation
 To clone this repository, use the following command:
-git clone https://github.com/jankigabani/SwasthKAI.git
+- ```git clone https://github.com/jankigabani/SwasthKAI.git```
+
+Install the below libraries :
+- ```pip install -r requirements.txt```
 
 # Usage
 After cloning the repository, navigate to the directory containing the app.py file. Then, run the Streamlit app using the following command:
@@ -30,3 +33,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # Contact
 For any inquiries or support, please contact Janaki Gabani.
+
+# Note
+If you are unable to run this kindly contact as we are still working on this.
