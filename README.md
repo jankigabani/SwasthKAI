@@ -1,5 +1,6 @@
 # SwasthKAI
 Decode, Decide, Thrive: Empowering Health with SwasthKAI.
+SwasthKAI is a project aimed at promoting healthy eating habits by providing information about the nutritional content of Indian food products.
 
 # Who are we?
 
@@ -12,3 +13,20 @@ Gone are the days of blindly trusting brands. With SwasthkAI, you're in control 
 ## Problem it Solves ✨
 
 SwasthkAI revolutionizes the way we approach food consumption by empowering users to scan food packaging, extract detailed ingredient data, and assess health impacts based on individual health preferences. Say goodbye to marketing gimmicks and hello to informed choices tailored for diabetics, patients, and anyone seeking healthier eating habits. Whether you're deciphering labels or avoiding allergens, SwasthkAI is your trusted companion for a healthier lifestyle.
+
+# Installation
+To clone this repository, use the following command:
+git clone https://github.com/jankigabani/SwasthKAI.git
+
+# Usage
+After cloning the repository, navigate to the directory containing the app.py file. Then, run the Streamlit app using the following command:
+This will start the application, and you can access it through your web browser.
+
+# Contributing
+Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
+
+# License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+# Contact
+For any inquiries or support, please contact Janaki Gabani.
